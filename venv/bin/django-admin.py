@@ -1,4 +1,4 @@
-#!/home/tenthent/DjnagoNews/venv/bin/python3
+#!/home/azamat/Документы/Python/6_June_2021/17jun_Jango/DjangoNews/venv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
